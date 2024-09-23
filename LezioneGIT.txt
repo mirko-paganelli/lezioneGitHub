@@ -1,0 +1,162 @@
+Pos	Pilota	Tempo	Pt	
+1	
+Regno Unito
+L. Norris
+McLaren
+·
+#4
+1:40:52.571
+25
+2	
+Paesi Bassi
+M. Verstappen
+Red Bull
+·
+#1
++20.945s
+18
+3	
+Australia
+O. Piastri
+McLaren
+·
+#81
++41.823s
+15
+4	
+Regno Unito
+G. Russell
+Mercedes
+·
+#63
++61.040s
+12
+5	
+Monaco
+C. Leclerc
+Ferrari
+·
+#16
++62.430s
+10
+ 
+6	
+Regno Unito
+L. Hamilton
+Mercedes
+·
+#44
++85.248s
+8
+7	
+Spagna
+C. Sainz Jr.
+Ferrari
+·
+#55
++96.039s
+6
+8	
+Spagna
+F. Alonso
+Aston Martin
+·
+#14
++ 1 giro
+4
+9	
+Germania
+N. Hülkenberg
+Haas
+·
+#27
++ 1 giro
+2
+10	
+Messico
+S. Pérez
+Red Bull
+·
+#11
++ 1 giro
+1
+11	
+Argentina
+F. Colapinto
+Williams
+·
+#43
++ 1 giro
+0
+12	
+Giappone
+Y. Tsunoda
+Racing Bulls F1 Team
+·
+#22
++ 1 giro
+0
+13	
+Francia
+E. Ocon
+Alpine
+·
+#31
++ 1 giro
+0
+14	
+Canada
+L. Stroll
+Aston Martin
+·
+#18
++ 1 giro
+0
+15	
+Cina
+G. Zhou
+Sauber F1 Team
+·
+#24
++ 1 giro
+0
+16	
+Finlandia
+V. Bottas
+Sauber F1 Team
+·
+#77
++ 1 giro
+0
+17	
+Francia
+P. Gasly
+Alpine
+·
+#10
++ 1 giro
+0
+18	
+Australia
+D. Ricciardo
+Racing Bulls F1 Team
+·
+#3
++ 1 giro
+0
+19	
+Danimarca
+K. Magnussen
+Haas
+·
+#20
+NT
+0
+20	
+Thailandia
+A. Albon
+Williams
+·
+#23
+NT
+0
